@@ -9,35 +9,35 @@ Where possible, you should also build your in-person network.
 
 Despite this digital age, nothing is stronger than connecting face-to-face. Here are a few reasons why in-person networking is still important:
 
-1. **Accelerates relationship building** - When you meet someone face-to-face, you’re able to learn more about that person in ten minutes than it would take over several months online.
+- **Accelerates relationship building** - When you meet someone face-to-face, you’re able to learn more about that person in ten minutes than it would take over several months online.
 
-2. **Recognition** - If meeting in-person, people can put a face to your name, as well as pick up on the actions you embody. This allows them to form a personal impression of you, which is much more memorable than any email you can send.
+- **Recognition** - If meeting in-person, people can put a face to your name, as well as pick up on the actions you embody. This allows them to form a personal impression of you, which is much more memorable than any email you can send.
 
-3. **Increased understanding** - When face-to-face, you can hear the tone of voice, see facial expressions, and observe body language, energy, etc. Because of this, there’s increased understanding and it’s easier to convey purpose.
+- **Increased understanding** - When face-to-face, you can hear the tone of voice, see facial expressions, and observe body language, energy, etc. Because of this, there’s increased understanding and it’s easier to convey purpose.
 
-4. **Opportunity to meet a variety of people** - There’s this serendipitous nature at live events. You never know who you may meet. And often the best connections come from the people you least expect.
+- **Opportunity to meet a variety of people** - There’s this serendipitous nature at live events. You never know who you may meet. And often the best connections come from the people you least expect.
 
 ## Types of In-Person Networking
 
 When it comes to face-to-face networking, there are lots of options. Here are some of the most common. 
 
-1. **[Meetups](http://www.meetup.com/)** - Meetup is a platform where anyone can organize an in-person get together around a certain topic. There are lots of tech meetups in cities across the world. Meetups give you the chance to connect with others, learn about new products, and listen to talks. Meetups are usually free to attend. However, some may cost money, but usually not more than $5-10.
+- **[Meetups](http://www.meetup.com/)** - Meetup is a platform where anyone can organize an in-person get together around a certain topic. There are lots of tech meetups in cities across the world. Meetups give you the chance to connect with others, learn about new products, and listen to talks. Meetups are usually free to attend. However, some may cost money, but usually not more than $5-10.
 
-2. **Associations/organizations** - These tend to be more formal gatherings, usually closed to members only. Being a part of an association/organization often means you must apply, and pay a membership fee. Examples: ISSA  (Information Security Systems Association) and the SANS Institute.
+- **Associations/organizations** - These tend to be more formal gatherings, usually closed to members only. Being a part of an association/organization often means you must apply, and pay a membership fee. Examples: ISSA  (Information Security Systems Association) and the SANS Institute.
 
 Here is a list of [Cybersecurity Associations](https://www.thebalancecareers.com/leading-information-security-organizations-2071545)
  
-3. **Conferences** - Conferences are typically several days in length, and held at convention halls or large hotels. Because of this, they are often at a higher price point. Many people will travel to attend conferences. 
+- **Conferences** - Conferences are typically several days in length, and held at convention halls or large hotels. Because of this, they are often at a higher price point. Many people will travel to attend conferences. 
 
 Here is a regularly updated [List of Cybersecurity Conferences](https://infosec-conferences.com).
 
-4. **Other Industry (or even Non-Tech) Events** - [Gary’s Guide](https://www.garysguide.com/events) (New York City and San Francisco areas) and [Eventbrite](https://www.eventbrite.com/) (global) are two other places to find networking opportunities.
+- **Other Industry (or even Non-Tech) Events** - [Gary’s Guide](https://www.garysguide.com/events) (New York City and San Francisco areas) and [Eventbrite](https://www.eventbrite.com/) (global) are two other places to find networking opportunities.
 
-5. **Hackathons** - Hackathons are competitions in which a large number of people meet to engage in collaborative projects. Participants are asked to ‘build something from nothing.’ Recruiters often attend these events, too.
+- **Hackathons** - Hackathons are competitions in which a large number of people meet to engage in collaborative projects. Participants are asked to ‘build something from nothing.’ Recruiters often attend these events, too.
 
-6. **Coworking spaces** - Coworking spaces are places people without an office go to work. Many of these people work for larger companies remotely, freelance, work at startups, or even have their own business. Coworking itself is a great way to meet people. However, many coworking spaces also host their own events. Example: [WeWork](https://www.wework.com/)
+- **Coworking spaces** - Coworking spaces are places people without an office go to work. Many of these people work for larger companies remotely, freelance, work at startups, or even have their own business. Coworking itself is a great way to meet people. However, many coworking spaces also host their own events. Example: [WeWork](https://www.wework.com/)
 
-7. **Volunteering** - Volunteering is an underrated networking method. Unlike happy hours and networking events, volunteering centers on giving back to a cause. However, it also provides the chance to meet new people who share your interests and do impactful work. Meeting people at volunteer events shows the people present that you’re passionate about your chosen career and that you work hard. 
+- **Volunteering** - Volunteering is an underrated networking method. Unlike happy hours and networking events, volunteering centers on giving back to a cause. However, it also provides the chance to meet new people who share your interests and do impactful work. Meeting people at volunteer events shows the people present that you’re passionate about your chosen career and that you work hard. 
 
 - [Secure Diversity](https://securediversity.org)has information,resources and opportunities for volunteering.
 - Collaborate with a team (at work or in school) on a cyber security project.
@@ -59,17 +59,17 @@ All companies and industries need talent like yours. Still, make sure to attend 
 
 When deciding on which meetups to attend, here are some things to consider:
 
-1. *Topic:* Explore both meetups both within and outside of your field of study.  A great connection can come from anywhere, tech or elsewhere! This process is about meeting people, making friends and cultivating relationships. Doing this with people who share your passions and interests will help it feel more natural and enjoyable.
+- *Topic:* Explore both meetups both within and outside of your field of study.  A great connection can come from anywhere, tech or elsewhere! This process is about meeting people, making friends and cultivating relationships. Doing this with people who share your passions and interests will help it feel more natural and enjoyable.
 
-2. *Type:* Meetups are all designed differently. Some are for networking and socializing, while others focus on lectures, workshops, problem-solving, panel discussions or presentations. Choose a type that resonates with you.
+- *Type:* Meetups are all designed differently. Some are for networking and socializing, while others focus on lectures, workshops, problem-solving, panel discussions or presentations. Choose a type that resonates with you.
 
-3. *Size:* Meetups come in all sizes. There are people who love the idea of a large crowd, while others feel more at ease in a smaller group. Choose one that seems most comfortable to you.
+- *Size:* Meetups come in all sizes. There are people who love the idea of a large crowd, while others feel more at ease in a smaller group. Choose one that seems most comfortable to you.
 
 **What to Do When You’re at a Meetup**
 
 You’ve decided on a meetup to attend. Now what?
 
-1. Set some goals and prepare:
+- Set some goals and prepare:
   * How many people will you aim to meet?
   * Who specifically will you try to meet? 
      - If the attendee list is available, browse through it ahead of time and see if there are any people in particular with        whom you’d like to connect at the event itself. (Did they also graduate from a bootcamp, do they work for a company you’d      love to work for, etc.?)
@@ -176,7 +176,7 @@ While meeting a new person at a meetup is important, it’s only the start. The 
 
 > Dear Jill,
 
-> It was great meeting you last night at the [Even Name] meetup. It was fantastic to meet a fellow bootcamp grad and music lover, and chat about our final projects- both related to new music discovery!
+> It was great meeting you last night at the [Even Name] meetup. It was fantastic to meet a fellow bootcamp grad and music lover, and chat about our final projects- both related to music industry security!
 
 > We started talking aboutcybersecurity meetups and startups in NYC, but due to the time weren’t able to continue the conversation; I’d love to do so over coffee, my treat! Would you have some time in the evenings next week? 
 
