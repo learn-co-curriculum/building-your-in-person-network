@@ -1,8 +1,8 @@
 ## Building an In-Person Network 
 
-We covered the importance of leveraging your professional network as well as how to find like-minded people online. Building an online community is a helpful way to connect to opportunities and get a job.
+We covered the importance of leveraging your professional network as well as how to find like-minded people online. Building an online community is a helpful way to connect to opportunities and get a job. 
 
-Where possible, you should also build your in-person network.
+Where possible, you should also build your in-person network. 
 
 
 ## Why In-Person Networking Matters
@@ -23,18 +23,32 @@ When it comes to face-to-face networking, there are lots of options. Here are so
 
 1. **[Meetups](http://www.meetup.com/)** - Meetup is a platform where anyone can organize an in-person get together around a certain topic. There are lots of tech meetups in cities across the world. Meetups give you the chance to connect with others, learn about new products, and listen to talks. Meetups are usually free to attend. However, some may cost money, but usually not more than $5-10.
 
-2. **Associations/organizations** - These tend to be more formal gatherings, usually closed to members only. Being a part of an association/organization often means you must apply, and pay a membership fee. Example: [Women in Technology International](http://www.witi.com/), [AIGA (American Institute of Graphic Arts)](https://www.aiga.org/)
+2. **Associations/organizations** - These tend to be more formal gatherings, usually closed to members only. Being a part of an association/organization often means you must apply, and pay a membership fee. Examples: ISSA  (Information Security Systems Association) and the SANS Institute.
 
-3. **Conferences** - Conferences are typically several days in length, and held at convention halls or large hotels. Because of this, they are often at a higher price point. Many people will travel to attend conferences. Example: [RailsConf (Software Engineering)](http://railsconf.com/), [PyData (Data Science)](https://pydata.org/), [IXDA (Design)](https://interaction19.ixda.org/)
+Here is a list of [Cybersecurity Associations](https://www.thebalancecareers.com/leading-information-security-organizations-2071545)
+ 
+3. **Conferences** - Conferences are typically several days in length, and held at convention halls or large hotels. Because of this, they are often at a higher price point. Many people will travel to attend conferences. 
 
-4. **Other Industry (or even Non-Tech) Events** - [Gary’s Guide](https://www.garysguide.com/events) (New York City and San Francisco areas) and [Eventbrite](https://www.eventbrite.com/) (global) are two other places to find networking opportunities
+Here is a regularly updated [List of Cybersecurity Conferences](https://infosec-conferences.com).
+
+4. **Other Industry (or even Non-Tech) Events** - [Gary’s Guide](https://www.garysguide.com/events) (New York City and San Francisco areas) and [Eventbrite](https://www.eventbrite.com/) (global) are two other places to find networking opportunities.
 
 5. **Hackathons** - Hackathons are competitions in which a large number of people meet to engage in collaborative projects. Participants are asked to ‘build something from nothing.’ Recruiters often attend these events, too.
 
 6. **Coworking spaces** - Coworking spaces are places people without an office go to work. Many of these people work for larger companies remotely, freelance, work at startups, or even have their own business. Coworking itself is a great way to meet people. However, many coworking spaces also host their own events. Example: [WeWork](https://www.wework.com/)
 
-7. **Volunteering** - Volunteering is an underrated networking method. Unlike happy hours and networking events, volunteering centers on giving back to a cause. However, it also provides the chance to meet new people who share your interests and do impactful work. Meeting people at volunteer events shows the people present that you’re passionate about your chosen career and that you work hard. Example: [Girls Who Code](http://girlswhocode.com/get-involved/) (Software Engineering), [DataKind](https://www.datakind.org/) (Data Science), [Design for Good](https://www.aiga.org/designforgood-get-involved) (Design), [Catchafire](https://www.catchafire.org/), [TapRoot+](https://www.taprootplus.org/), [Volunteer Match](https://www.volunteermatch.org/)
+7. **Volunteering** - Volunteering is an underrated networking method. Unlike happy hours and networking events, volunteering centers on giving back to a cause. However, it also provides the chance to meet new people who share your interests and do impactful work. Meeting people at volunteer events shows the people present that you’re passionate about your chosen career and that you work hard. 
 
+- [Secure Diversity](https://securediversity.org)has information,resources and opportunities for volunteering.
+- Collaborate with a team (at work or in school) on a cyber security project.
+- Volunteer to do IT security work for a non-profit or charity.
+- Here are some potential sources of Internships:
+     - [F6S](www.f6s.com) 
+     - [AngelList](www.angel.co)
+     - [Crunchbase](https://www.crunchbase.com)
+     - [Startupers](www.startupers.com)
+     - [Work at a Startup](www.workatastartup.com)
+     
 While building a professional community is important, don’t limit yourself to attending only events in your industry. If you attend events outside of the industry, you’ll stand out more *because you’ll probably be one of the few there with your skill set!*
 
 All companies and industries need talent like yours. Still, make sure to attend events you have an interest in. This way you’ll be able to make genuine connections with people who are also attending, and learn something in the process.
@@ -87,7 +101,6 @@ You’ve decided on a meetup to attend. Now what?
 
     - “What brings you to this meetup?” There are a number of possibilities in answering this question, which will help you       engage and build rapport with the person you’re speaking to. Do ask this type of question.
 
-
 Now that you’ve done your preparation, what do you do once you’re at the event?
 
   * Put your phone away. This is about connecting with people face-to-face.
@@ -105,7 +118,6 @@ Now that you’ve done your preparation, what do you do once you’re at the eve
     - If people have already formed groups, look and sound like they are having a good time or are talking about something         that is of interest to you, stand near them and, when acknowledged, step in and respond and/or introduce yourself.
 
     - *Networking bonus: When you see someone trying to join your conversation or group, step back and give them a chance to       join in. In doing so, you are including the excluded and that is both gracious and memorable.*
-
 
   * Once you’ve introduced yourself, continue the conversation by asking open-ended questions (remember the information above!). Keep in mind that everyone has been new to something before. Sometimes just saying, "My name is x and I'm totally out of my comfort zone here. Nice to meet you! How did you hear about this event?", can normalize any nervousness and turn it into fuel for an honest and humorous conversation. Additional question examples:
 
@@ -166,7 +178,7 @@ While meeting a new person at a meetup is important, it’s only the start. The 
 
 > It was great meeting you last night at the [Even Name] meetup. It was fantastic to meet a fellow bootcamp grad and music lover, and chat about our final projects- both related to new music discovery!
 
-> We started talking about music tech meetups and startups in NYC, but due to the time weren’t able to continue the conversation; I’d love to do so over coffee, my treat! Would you have some time in the evenings next week? 
+> We started talking aboutcybersecurity meetups and startups in NYC, but due to the time weren’t able to continue the conversation; I’d love to do so over coffee, my treat! Would you have some time in the evenings next week? 
 
 > Thanks again for the conversation, and have a great night! I look forward to your reply.
 
@@ -176,14 +188,13 @@ While meeting a new person at a meetup is important, it’s only the start. The 
 > Siobhanmccally.com
 
 
-
   * Connect with the person on LinkedIn, but make sure you personalize the note to connect and include where you met and what you talked about. NOTE: LinkedIn Connection Requests have a 300-character limit, so keep your message concise but specific about who you are and why you are looking to connection.
 
    	[LinkedIn Connection Request]
 
 > Dear Jill, 
 
-> It was great meeting you at the [Event Name] Meetup last night and chatting about our bootcamp experiences and music discovery projects! I’d love to stay connected here and hope to continue the conversation (I sent a direct email as well).
+> It was great meeting you at the [Event Name] Meetup last night and chatting about our bootcamp experiences and home lab projects! I’d love to stay connected here and hope to continue the conversation (I sent a direct email as well).
 
 > Have a wonderful day!
 
@@ -241,4 +252,4 @@ The best way to build a community is by getting out and going to events in your 
 
 When you’re at events, don’t think about what you can get out of the experience. Instead, think about what you can give to others. This kind of mindset will make you more likable, and set a strong foundation for your relationships down the line.
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/building-your-in-person-network'>Building Your In-Person Network</a> on Learn.co and start learning to code for free.</p>
+
