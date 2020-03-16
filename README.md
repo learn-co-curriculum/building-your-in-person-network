@@ -39,15 +39,15 @@ Here is a regularly updated [List of Cybersecurity Conferences](https://infosec-
 
 - **Volunteering** - Volunteering is an underrated networking method. Unlike happy hours and networking events, volunteering centers on giving back to a cause. However, it also provides the chance to meet new people who share your interests and do impactful work. Meeting people at volunteer events shows the people present that you’re passionate about your chosen career and that you work hard. 
 
-- [Secure Diversity](https://securediversity.org)has information,resources and opportunities for volunteering.
+- [Secure Diversity](https://securediversity.org) has information,resources and opportunities for volunteering.
 - Collaborate with a team (at work or in school) on a cyber security project.
 - Volunteer to do IT security work for a non-profit or charity.
 - Here are some potential sources of Internships:
-     - [F6S](www.f6s.com) 
-     - [AngelList](www.angel.co)
+     - [F6S](https://www.f6s.com/) 
+     - [AngelList](https://www.angel.co)
      - [Crunchbase](https://www.crunchbase.com)
-     - [Startupers](www.startupers.com)
-     - [Work at a Startup](www.workatastartup.com)
+     - [Startupers](https://www.startupers.com)
+     - [Work at a Startup](https://www.workatastartup.com)
      
 While building a professional community is important, don’t limit yourself to attending only events in your industry. If you attend events outside of the industry, you’ll stand out more *because you’ll probably be one of the few there with your skill set!*
 
